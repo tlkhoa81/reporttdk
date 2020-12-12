@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/28846802/how-to-manually-publish-jar-to-maven-central
+
+tlkhoa81/$Lhub4fk$R9tFzu
+
+https://github.com/tlkhoa81/reporttdk.git

@@ -1,9 +1,3 @@
-Create report excel from template excel with at least 3 line code
+# ReportTDK
 
-Features:
-
-- Support parts Group, Detail, Total
-
-- Support Auto order, col to merge 
-
-- Support fomular in group and total
+Thư viện tạo báo cáo excel từ template excel
